@@ -1,3 +1,0 @@
-# Reto-determin-sticos
-
-Descripción
