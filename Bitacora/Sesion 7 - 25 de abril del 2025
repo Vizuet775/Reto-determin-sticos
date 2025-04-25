@@ -1,1 +1,20 @@
+# Viernes 25 de Abril 2025
 
+¿Qué hiciste?
+Comenzamos a realizar el codigo resolviendo las ecuaciones diferenciales propuestas en el documento.
+
+¿Qué encontraste? (Incluye alguna evidencia)
+Encontramos que al momento de resolver las ecuaciones diferenciales, la aceleración del disco tendia a dar hacia infinito (cosa que no hace sentido).
+Mas nos dimos cuenta que era porque debiamos incluir el torque que el pasto hacia hacia el disco para que este desacelerara y la grafica mostrara la forma oscilatoria.
+
+¿Qué pensaste?
+Que debemos considerar muchas más cosas al momento de hacer el codigo e incluso corregir y pulir algunos detalles.
+
+¿Es lo que esperabas? ¿Por qué si? O ¿Por qué no?
+Sí bien el resultado no era lo que esperabamo, definitivamente nos ayudo la retroalimentación que nos dió el profe ya que pudimos considerar varias variables que no habiamos visto. 
+
+Emiliano Vizuet López A01801184
+Mariana Villarreal A01722821
+Gabriel Ortiz A00836014
+Marcelo Torres Rojas A00836945
+Bernardo Lugo Albor A01707191
