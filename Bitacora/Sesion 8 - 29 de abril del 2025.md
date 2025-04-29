@@ -6,7 +6,7 @@ Corregimos las ecuaciones diferenciales considerando el torque del pasto sobre l
 ### ¿Qué encontraste? (Incluye alguna evidencia)
 
 #### Evidencia de la sesión:
-![Evidencia de la Sesión](../Fotos/foto_s8.png)
+![Evidencia de la Sesión](../Bitacora/WhatsApp Image 2025-04-29 at 13.48.13.jpeg)
 
 ### ¿Qué pensaste?
 Si bien, fue difícil llegar a algo por el momento, pero con la retroalimentación del profe, llegamos a la conclusión que debíamos sentar primero una hipótesis con el torque, en el que asumiremos que la sumatoria de fuerzas se igualara a 0 por equilibrio en las cuchillas.
