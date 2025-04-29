@@ -4,8 +4,23 @@
 Corregimos las ecuaciones diferenciales considerando el torque del pasto sobre los discos.
 
 ### ¿Qué encontraste? (Incluye alguna evidencia)
+Notas de Mariana, Gabriel y Bernardo: 
+En resumen, nos dimmos cuenta que confundimos algunos aspectos de la sumatoria 
+de torques y la de fuerzas pero teníamos los conceptos bien planteados. 
 
-#### Evidencia de la sesión:
+Decidimos asuimir qu ela sumatoria de fuerzas es igual a cero ya que el disco llega 
+a un punto estable rapidamente por lo que no es información que nos aleje de 
+nuestro resultado esperado. 
+
+También, logramos plantear correctamente el torque del pasto, partiendo de la 
+ecuación más sencilla para definirla ( $\tau=r sin(u) F_f $)  donde u es el ángulo
+con el que la cuchilla golpea al parto y F_f es la fuerza de fricción dada por
+el grosor del pasto que se está cortando, y r es la longitud de la cuchilla.
+
+Ahora, con estas correcciones, plantearemos las ecuaciones como deben de quedar. 
+Solo requieren unos pequeños ajustes en base a lo que trabajamos esta sesión.
+
+Notas de Mariana (revisar la carpeta de fotos, no supimos como ponerla aquí). 
 ![Evidencia de la sesión](./Bitacora/Fotos/foto_s8.png)
 
 ### ¿Qué pensaste?
