@@ -18,10 +18,9 @@ con el que la cuchilla golpea al parto y F_f es la fuerza de fricción dada por
 el grosor del pasto que se está cortando, y r es la longitud de la cuchilla.
 
 Ahora, con estas correcciones, plantearemos las ecuaciones como deben de quedar. 
-Solo requieren unos pequeños ajustes en base a lo que trabajamos esta sesión.
+Solo requieren unos pequeños ajustes en base a lo que trabajamos esta sesión. ![texto](https://github.com/Vizuet775/Reto-determin-sticos/blob/main/Bitacora/Fotos/foto_s8.png)
 
 Notas de Mariana (revisar la carpeta de fotos, no supimos como ponerla aquí). 
-![Evidencia de la sesión](./Bitacora/Fotos/foto_s8.png)
 
 ### ¿Qué pensaste?
 Si bien, fue difícil llegar a algo por el momento, pero con la retroalimentación del profe, llegamos a la conclusión que debíamos sentar primero una hipótesis con el torque, en el que asumiremos que la sumatoria de fuerzas se igualara a 0 por equilibrio en las cuchillas.
