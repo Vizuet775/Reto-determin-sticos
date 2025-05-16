@@ -12,3 +12,5 @@ Emiliano elaboró un código para interpretar las gráficas. En grupo se discuti
 en base a lo que conocemos del movimiento de las gráficas, cómo esperamos que 
 sea su movimiento y si concuerda con lo que muestran nuestras gráficas. 
 
+![texto](https://github.com/Vizuet775/Reto-determin-sticos/blob/main/Bitacora/Fotos/omega.jpg)
+![texto](https://github.com/Vizuet775/Reto-determin-sticos/blob/main/Bitacora/Fotos/theta.jpg)
