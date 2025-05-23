@@ -3,7 +3,7 @@ Partiendo de las Ecuaciones
 
 $I_t\ddot{\theta} = \tau_M - b\dot{\theta}rsin(\pi-\phi)$
 
-$\phi = arctan(\frac{b}{m\dot{\theta}l})$
+$\phi = arctan(\frac{b}{m\dot{\theta}l})$ as
 
 Se hizo un codigo que permitiese resolver las ecuaciones con sistemas de ecuaciones diferenciales, permitiendo obtener los resultados visuales de las graficas de
 los angulos $\theta$, $\omega$ y $\phi$
