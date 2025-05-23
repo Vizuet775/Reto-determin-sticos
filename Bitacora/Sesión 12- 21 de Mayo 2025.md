@@ -23,7 +23,7 @@ En el argumento del arcotangente nuestra unica variable (no constante) es $\dot{
 grafica de la funcion arcotangente:
 
 Podemos observar que cuando el argumento se acerque a $\theta$ (como es el caso cuando la
-velocidad angular sea muy grande) el resultado de la funci´on tiende a 0. Es decir, a velocidades considerablemente altas, nuestras cuchillas estaran practicamente alineadas con el disco
+velocidad angular sea muy grande) el resultado de la funcion tiende a 0. Es decir, a velocidades considerablemente altas, nuestras cuchillas estaran practicamente alineadas con el disco
 
 Recordemos que aun no incluimos el cambio del momento de inercia de las cuchillas.
 Nuestra posicion de reposo es arbitraria, ya que estamos tomando el sistema en un plano
