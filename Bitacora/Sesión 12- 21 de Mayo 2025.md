@@ -19,6 +19,10 @@ Finalmente en la gráfica de $\phi$ respecto al tiempo vemos que tiende a 0 desp
 Respecto a algunas conclusiones que se han llegado, tiene sentido que $\theta$ aumente linealmente, ya que $\omega$ llega a ser constante despues de un tiempo. 
 La velocidad angular llega a ser constante y varía con el torque, en la simulación usada el torque era suficientemente pequeño y entre más grande el torque más grande es la velocidad angular. Y cuando la velocidad angular aumente el angulo de $\phi$ va a tender a 0 (cabe recalcar que nuestro angulo $\phi$ es un angulo de desface respecto al disco) 
 
+En el argumento del arcotangente nuestra unica variable (no constante) es $\dot{\theta}$. Observando la
+grafica de la funcion arcotangente:
+
+
 ## Codigo
 ![texto](https://github.com/Vizuet775/Reto-determin-sticos/blob/main/Bitacora/Fotos/imagen_2025-05-23_115128351.png)
 ![texto](https://github.com/Vizuet775/Reto-determin-sticos/blob/main/Bitacora/imagen_2025-05-23_114939745.png)
