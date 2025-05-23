@@ -22,9 +22,11 @@ La velocidad angular llega a ser constante y varía con el torque, en la simulac
 En el argumento del arcotangente nuestra unica variable (no constante) es $\dot{\theta}$. Observando la
 grafica de la funcion arcotangente:
 
+![texto](https://github.com/Vizuet775/Reto-determin-sticos/blob/main/Bitacora/Fotos/imagen_2025-05-23_122830120.png)
 Podemos observar que cuando el argumento se acerque a $\theta$ (como es el caso cuando la
 velocidad angular sea muy grande) el resultado de la funcion tiende a 0. Es decir, a velocidades considerablemente altas, nuestras cuchillas estaran practicamente alineadas con el disco
 
+![texto](https://github.com/Vizuet775/Reto-determin-sticos/blob/main/Bitacora/Fotos/imagen_2025-05-23_122842996.png)
 Recordemos que aun no incluimos el cambio del momento de inercia de las cuchillas.
 Nuestra posicion de reposo es arbitraria, ya que estamos tomando el sistema en un plano
 horizontal donde la gravedad no afecta la posicion de las cuchillas.
